@@ -23,7 +23,7 @@ import static jogoquiz.conexao.status;
  * @author internet
  */
 public class quiz {
-   private Date datajogo;
+   
    private int pontos;
    private jogador player;
   String nome;
